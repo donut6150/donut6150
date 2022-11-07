@@ -21,6 +21,10 @@ idk i am bad at programming
 </a>
  
 <img src="https://github-readme-streak-stats.herokuapp.com?user=donut2008&theme=dark">
+
+</p>
+
+<p>
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donut2008&theme=dark" alt="Top Langs">
  
