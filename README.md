@@ -1,5 +1,3 @@
-![Profile Picture](https://avatars.githubusercontent.com/u/76439683?v=4) 
- 
 ## My GitHub Stats
  
 <p>
