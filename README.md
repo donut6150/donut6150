@@ -5,9 +5,9 @@ Welcome to my profile!
 I like programming, piano, and photography.
 
 ## Programming languages I've used
-I have experience with C#, C++, Java (not too much because I detest it), and Python (learning as of now).
+I have experience with C#, C++, Java, Python, and Kotlin.
 
-## why are most of your repos so half baked smh
+## why are most of your repos so half baked
 idk i am bad at programming
 
 ### My GitHub Stats
