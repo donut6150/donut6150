@@ -13,7 +13,7 @@ I have experience with C#, C++, Java, Python, and Kotlin.
  
 <a href="https://github.com/donut6150/donut6150">
  
-<img src="https://github-readme-stats.vercel.app/api?username=donut6150&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=donut6150&show_icons=true&theme=transparent" alt="GitHub stats"/>
  
 </a>
 
@@ -21,13 +21,14 @@ I have experience with C#, C++, Java, Python, and Kotlin.
 
 <p>
  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=donut6150&theme=vue-dark&hide_border=true">
+<img src="https://github-readme-streak-stats-gray-one.vercel.app?user=donut6150&theme=transparent" alt="GitHub Streak"/>
 
 </p>
 
 <p>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donut6150&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donut6150&theme=transparent&layout=compact" alt="Most used languages"/>
  
 </p>
+
 
